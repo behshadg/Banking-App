@@ -8,4 +8,4 @@ const TransactionHistory = () => {
   )
 }
 
-export default page
+export default TransactionHistory
